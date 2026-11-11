@@ -30,9 +30,16 @@ music, Zigbee/Thread, or one you write.
 | Sonoff NSPanel Pro and T6E rebadges | Planned |
 | Generic Android | Planned |
 
-### Why Apache-2.0
+### Why MPL-2.0
 
-Most full-featured panel apps are closed or non-commercial. Glassworks lets you port it to your
-device, fork it, and ship panels that run it.
+Most full-featured panel apps are closed or non-commercial. With MPL-2.0, Glassworks stays open and
+your product doesn't have to:
+
+- **Port it.** Write a frame for your device.
+- **Ship it.** Sell panels. Your frames and panes can stay closed.
+- **Share back.** Changes to Glassworks' own files stay open.
+
+You can say your product is *built on Glassworks*. The license doesn't grant use of the Glassworks
+name or mark.
 
 <sub>Home Assistant is a trademark of the Open Home Foundation. Glassworks isn't affiliated with it.</sub>
