@@ -39,7 +39,8 @@ your product doesn't have to:
 - **Ship it.** Sell panels. Your frames and panes can stay closed.
 - **Share back.** Changes to Glassworks' own files stay open.
 
-You can say your product is *built on Glassworks*. The license doesn't grant use of the Glassworks
-name or mark.
+You can say your product is *built on Glassworks*, and use the
+[badge](https://www.glassworks.dev/brand#badge). The license doesn't cover the name or mark; see
+[Trademarks](https://www.glassworks.dev/trademarks).
 
 <sub>Home Assistant is a trademark of the Open Home Foundation. Glassworks isn't affiliated with it.</sub>
