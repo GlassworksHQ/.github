@@ -4,6 +4,8 @@
 
 <p align="center"><b>The open core for Home Assistant wall panels.</b></p>
 
+<p align="center"><a href="https://www.glassworks.dev">glassworks.dev</a></p>
+
 Dashboard, ESPHome device, setup and updates for any wall panel. Everything else is a pane: voice,
 music, Zigbee/Thread, or one you write.
 
