@@ -12,7 +12,7 @@ music, Zigbee/Thread, or one you write.
 
 > [!NOTE]
 > Not released yet. Glassworks is being split out of
-> [S1 Unleashed](https://github.com/aguilaair/aqara-s1-unleashed), which installs on the Aqara S1
+> [S1 Unleashed](https://github.com/GlassworksHQ/aqara-s1-unleashed), which installs on the Aqara S1
 > Plus today.
 
 ### How it fits
@@ -46,7 +46,7 @@ music, Zigbee/Thread, or one you write.
       </picture>
       <b>Pane</b>
     </td>
-    <td>A plugin. Declares the hardware it needs.</td>
+    <td>A plugin. Declares the hardware it needs. <a href="https://www.glassworks.dev/panes">See the panes</a></td>
   </tr>
   <tr>
     <td>
@@ -64,8 +64,8 @@ music, Zigbee/Thread, or one you write.
 
 | Device | Status |
 |---|---|
-| Aqara S1 Plus | Works today, as [S1 Unleashed](https://github.com/aguilaair/aqara-s1-unleashed) |
-| Sonoff NSPanel Pro and T6E rebadges | Planned |
+| Aqara S1 Plus | β Beta, as [S1 Unleashed](https://github.com/GlassworksHQ/aqara-s1-unleashed) |
+| lululemon Studio Mirror | Planned |
 | Generic Android | Planned |
 
 ### Why MPL-2.0
@@ -77,8 +77,15 @@ your product doesn't have to:
 - **Ship it.** Sell panels. Your frames and panes can stay closed.
 - **Share back.** Changes to Glassworks' own files stay open.
 
-You can say your product is *built on Glassworks*, and use the
-[badge](https://www.glassworks.dev/brand#badge). The license doesn't cover the name or mark; see
-[Trademarks](https://www.glassworks.dev/trademarks).
+You can say your product is *built on Glassworks*, and show the [badge](https://www.glassworks.dev/brand#badge):
+
+<a href="https://www.glassworks.dev">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://www.glassworks.dev/brand/badge-on-dark.svg">
+    <img alt="Built on Glassworks" src="https://www.glassworks.dev/brand/badge-on-light.svg" height="30">
+  </picture>
+</a>
+
+The license doesn't cover the name or mark; see [Trademarks](https://www.glassworks.dev/trademarks).
 
 <sub>Home Assistant is a trademark of the Open Home Foundation. Glassworks isn't affiliated with it.</sub>
