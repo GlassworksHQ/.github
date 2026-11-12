@@ -17,11 +17,48 @@ music, Zigbee/Thread, or one you write.
 
 ### How it fits
 
-| | |
-|---|---|
-| **Frame** | One per device. Everything hardware-specific lives here. |
-| **Pane** | A plugin. Declares the hardware it needs. |
-| **Kiln** | The installer. Runs in the browser, over USB. |
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="icon-frame-on-dark.svg">
+        <img src="icon-frame-on-light.svg" alt="" height="24" align="absmiddle">
+      </picture>
+      <b>Frame</b>
+    </td>
+    <td>One per device. Everything hardware-specific lives here.</td>
+  </tr>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="icon-core-on-dark.svg">
+        <img src="icon-core-on-light.svg" alt="" height="24" align="absmiddle">
+      </picture>
+      <b>Core</b>
+    </td>
+    <td>What every panel needs. No device code.</td>
+  </tr>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="icon-pane-on-dark.svg">
+        <img src="icon-pane-on-light.svg" alt="" height="24" align="absmiddle">
+      </picture>
+      <b>Pane</b>
+    </td>
+    <td>A plugin. Declares the hardware it needs.</td>
+  </tr>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="icon-kiln-on-dark.svg">
+        <img src="icon-kiln-on-light.svg" alt="" height="24" align="absmiddle">
+      </picture>
+      <b>Kiln</b>
+    </td>
+    <td>The installer. Runs in the browser, over USB.</td>
+  </tr>
+</table>
 
 ### Frames
 
